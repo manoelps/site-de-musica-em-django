@@ -78,7 +78,7 @@ site_de_musica/
 │   ├── static/
 │   │   └── homepage/
 │   │       ├── styles.css
-│   │       ├── guitar.jpg
+│   │       ├── sax.jpg
 │   │       └── favicon.ico
 │   ├── templates/
 │   │   └── homepage/
